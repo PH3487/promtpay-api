@@ -4,7 +4,7 @@ run-name: is automated testing
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   Deployment:
